@@ -36,7 +36,7 @@ mejores predicciones con modelos más realistas.
 
 La idea básica es entonces transformar a nuevas entradas, 
 antes de ajustar un modelo:
-$$(x_1,...,x_p) \to (b_1(x),...,b_M (x)).$$
+$$(x_1,...,x_p) \to (b_1(x),...,b_M (x)),$$
 
 donde típicamente $M$ es mayor que $p$. Entonces, en lugar de ajustar
 el modelo lineal en las $x_1,\ldots, x_p$, que es
